@@ -1,5 +1,6 @@
 ## Я и фронтенд:
-- ищу работу в этой сфере 🔎
+- &lt;small&gt;мелкий текст&lt;/small&gt;
+- **ищу работу в этой сфере** 🔎
 - учусь в Яндекс.Практикуме @yandex-praktikum на специальности «Веб-разработчик»
 - читаю [learn.javascript.ru](https://learn.javascript.ru)
 - решаю задачки на codewars: https://www.codewars.com/users/novvember
@@ -11,7 +12,7 @@
 - почта n.demitsuri@gmail.com
 - телеграм @n_d_d
 
-## Основной стек технологий:
+## Стек основных технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
