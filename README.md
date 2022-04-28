@@ -1,11 +1,11 @@
 ## Я и фронтенд:
 - ищу работу в этой сфере 🔎
-- учусь в Яндекс.Практикуме @yandex-praktikum на специальности «Веб-разработчик» 📚
-- читаю [learn.javascript.ru](https://learn.javascript.ru) 📚 ![js](https://learn.javascript.ru/img/favicon/apple-touch-icon-precomposed.png)
-- решаю задачки на codewars: https://www.codewars.com/users/novvember 🧩
-- помогаю на русском Stack Overflow: https://ru.stackoverflow.com/users/352251/novvember ❓
+- учусь в Яндекс.Практикуме @yandex-praktikum на специальности «Веб-разработчик»
+- читаю [learn.javascript.ru](https://learn.javascript.ru)
+- решаю задачки на codewars: https://www.codewars.com/users/novvember
+- помогаю на русском Stack Overflow: [ru.stackoverflow.com/users/352251/novvember](https://ru.stackoverflow.com/users/352251/novvember) 
 
-## Мой сайт с процессом обучения и работами: https://novvember.github.io
+## Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
 ## Связаться:
 - почта n.demitsuri@gmail.com
