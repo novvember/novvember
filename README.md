@@ -1,4 +1,4 @@
-## Я и фронтенд:
+## Я и фронтенд
 - **ищу работу в этой сфере** 🔎
 - учусь в *Яндекс.Практикуме* на специальности «Веб-разработчик»
 - читаю *learn.javascript.ru*
@@ -7,11 +7,11 @@
 
 ## Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
-## Связаться:
-- почта n.demitsuri@gmail.com
-- телеграм @n_d_d
+## Контакты
+- e-mail: [n.demitsuri@gmail.com](mailto:n.demitsuri+github@gmail.com)
+- telegram: [@n_d_d](https://t.me/n_d_d)
 
-## Стек основных технологий:
+## Стек основных технологий
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
