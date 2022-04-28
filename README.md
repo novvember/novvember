@@ -1,7 +1,7 @@
 ## Я и фронтенд:
 - ищу работу в этой сфере 🔎
 - учусь в Яндекс.Практикуме @yandex-praktikum на специальности «Веб-разработчик» 📚
-- читаю [https://learn.javascript.ru](learn.javascript.ru) 📚
+- читаю [learn.javascript.ru](https://learn.javascript.ru) 📚 ![js](https://learn.javascript.ru/img/favicon/apple-touch-icon-precomposed.png)
 - решаю задачки на codewars: https://www.codewars.com/users/novvember 🧩
 - помогаю на русском Stack Overflow: https://ru.stackoverflow.com/users/352251/novvember ❓
 
