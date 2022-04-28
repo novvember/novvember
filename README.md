@@ -3,7 +3,7 @@
 - учусь в Яндекс.Практикуме на специальности «Веб-разработчик»
 - читаю learn.javascript.ru
 - решаю задачки на Codewars: [codewars.com/users/novvember](https://www.codewars.com/users/novvember) ![Codewars](https://www.codewars.com/users/novvember/badges/micro?theme=light)
-- помогаю на русском *tack Overflow: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
+- помогаю на русском Stack Overflow: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
 
 ## Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
