@@ -1,23 +1,15 @@
-## Я и фронтенд
-- **ищу работу в этой сфере** 🔎
-- учусь в Яндекс.Практикуме на специальности «Веб-разработчик»
-- читаю learn.javascript.ru
-- решаю задачки на Codewars: [codewars.com/users/novvember](https://www.codewars.com/users/novvember) ![Codewars](https://www.codewars.com/users/novvember/badges/micro?theme=light)
-- помогаю на русском Stack Overflow: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
+### Я и фронтенд
+- **`ищу работу в этой сфере 🔎`**
+- учусь в **Яндекс.Практикуме** на специальности «Веб-разработчик»
+- читаю **learn.javascript.ru**, новости
+- решаю задачки на **Codewars**: [codewars.com/users/novvember](https://www.codewars.com/users/novvember) ![Codewars](https://www.codewars.com/users/novvember/badges/micro?theme=light)
+- помогаю на русском **Stack Overflow**: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
+- работаю и изучаю технологии  
+**`html5`** **`css3`** **`bem`** **`javascript`** **`react.js`**  
+`webpack` `npm` `figma` `git`
 
-## Стек основных технологий
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-## Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
-
-## Контакты
+### Контакты
 - e-mail: [n.demitsuri@gmail.com](mailto:n.demitsuri+github@gmail.com)
 - telegram: [@n_d_d](https://t.me/n_d_d)
