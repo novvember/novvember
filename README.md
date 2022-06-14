@@ -4,9 +4,11 @@
 - читаю **learn.javascript.ru** и новости
 - решаю задачки на **Codewars**: [codewars.com/users/novvember](https://www.codewars.com/users/novvember) ![Codewars](https://www.codewars.com/users/novvember/badges/micro?theme=light)
 - помогаю на русском **Stack Overflow**: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
-- работаю и изучаю технологии  
-**`html5`** **`css3`** **`bem`** **`javascript`** **`react.js`**  
-`webpack` `npm` `figma` `git`
+- навыки работы:  
+  * **`HTML5`** **`CSS3`** `BEM`
+  * **`JavaScript`** `ES6` `Swiper.js`
+  * **`React.js`** `Create React App` `React Router` `Redux`
+  * `Webpack` `NPM` `Figma` `Git`
 
 ### Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
