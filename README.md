@@ -8,8 +8,8 @@
   * **`HTML5`** **`CSS3`** `BEM`
   * **`JavaScript`** `ES6` `Swiper.js`
   * **`React.js`** `Create React App` `React Router` `Redux`
-  * `Webpack` `NPM` `Figma` `Git`
   * **`Node.js`** `express.js` `MongoDB` `Mongoose`
+  * `Webpack` `NPM` `Figma` `Git` `Visual Studio Code` `Postman` 
 
 ### Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
