@@ -9,6 +9,7 @@
   * **`JavaScript`** `ES6` `Swiper.js`
   * **`React.js`** `Create React App` `React Router` `Redux`
   * `Webpack` `NPM` `Figma` `Git`
+  * **`Node.js`** `express.js` `MongoDB` `Mongoose`
 
 ### Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
