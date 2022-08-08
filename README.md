@@ -6,10 +6,10 @@
 - помогаю на русском **Stack Overflow**: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
 - навыки работы:  
   * **`HTML5`** **`CSS3`** `BEM`
-  * **`JavaScript`** `ES6` `Swiper.js`
-  * **`React.js`** `Create React App` `React Router` `Redux`
-  * **`Node.js`** `express.js` `MongoDB` `Mongoose`
-  * `Webpack` `NPM` `Figma` `Git` `Visual Studio Code` `Postman` 
+  * **`JavaScript`** `ES6` `ООП` `Swiper.js` 
+  * **`React.js`** `Create React App` `React Router` `React Context`
+  * **`Node.js`** `express.js` `MongoDB` `Mongoose` `celebrate + Joi`
+  * `Webpack` `NPM` `Figma` `Git` `Visual Studio Code` `Postman` `ESLint`
 
 ### Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
