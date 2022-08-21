@@ -1,7 +1,6 @@
 ### Я и фронтенд
 - **`ищу работу фронтенд-разработчиком 🔎`**
 - учусь в **Яндекс.Практикуме** на специальности «Веб-разработчик»
-- читаю **learn.javascript.ru** и новости
 - решаю задачки на **Codewars**: [codewars.com/users/novvember](https://www.codewars.com/users/novvember) ![Codewars](https://www.codewars.com/users/novvember/badges/micro?theme=light)
 - помогаю на русском **Stack Overflow**: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
 - навыки работы:  
