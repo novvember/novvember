@@ -7,8 +7,10 @@
   * **`HTML5`** **`CSS3`** `BEM`
   * **`JavaScript`** `ES6` `ООП` `Swiper.js` 
   * **`React.js`** `Create React App` `React Router` `React Context`
-  * **`Node.js`** `express.js` `MongoDB` `Mongoose` `celebrate + Joi`
-  * `Webpack` `NPM` `Figma` `Git` `Visual Studio Code` `Postman` `ESLint`
+  * **`Node.js`** `express.js` `celebrate + Joi` `Winston`
+  * **`MongoDB`** `Mongoose`
+  * **`Jest`** `supertest`
+  * `Webpack` `NPM` `Figma` `Git` `Visual Studio Code` `Postman` `ESLint` `bash` `Nginx` `Let's Encrypt`
 
 ### Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
