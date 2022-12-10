@@ -1,9 +1,10 @@
-### Я и фронтенд
-- **🔎 ищу работу фронтенд-разработчиком**
-- закончил **Яндекс.Практикум** на специальности «Веб-разработчик»
+### Я и фронтенд (кстати, ищу работу 🔎)
+- основной стек: **`HTML5` `CSS3` `БЭМ` `JavaScript` `TypeScript` `React.js`**
+- **мои пет-проекты** отдельным списком: [⭐ My Pet Projects](https://github.com/stars/novvember/lists/my-pet-projects)
 - решаю задачки на **Codewars**: [codewars.com/users/novvember](https://www.codewars.com/users/novvember) ![Codewars](https://www.codewars.com/users/novvember/badges/micro?theme=light)
 - помогаю на русском **Stack Overflow**: [ru.stackoverflow.com/users/352251](https://ru.stackoverflow.com/users/352251/novvember) 
-- основной стек: `HTML5` `CSS3` `БЭМ` `JavaScript` `TypeScript` `React.js`
+- закончил **Яндекс.Практикум** по специальности «Веб-разработчик»
+
 
 ### Мой сайт с процессом обучения и работами: [novvember.github.io](https://novvember.github.io)
 
