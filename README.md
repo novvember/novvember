@@ -12,4 +12,4 @@
 - E-mail: [n.demitsuri@gmail.com](mailto:n.demitsuri+github@gmail.com)
 - Telegram: [@n_d_d](https://t.me/n_d_d)
 
-![](https://komarev.com/ghpvc/?username=novvember&style=flat-square&color=grey)
+![](https://komarev.com/ghpvc/?username=novvember&style=flat-square&color=lightgrey&label=Profile+views+since+01/2023)
